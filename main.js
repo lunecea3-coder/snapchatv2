@@ -60,10 +60,11 @@ function showError(message) {
 
     // Array of all lenses in the same group
     const lensIds = [
-      '935805bc-ae90-4787-a1c0-1418981b8fa1',
+      'ab4c72ff-f48c-49c4-911f-4db8aed071d5',
+      'e2767b50-6f07-48f1-9429-fcdcd511cd49',
+      'dc27ba72-bd5a-4c6a-a845-ac00e6fcbac3',
       '0fc1854c-4364-46f7-bb0d-0d250224ce02',
-      '96c260e5-596b-4dfa-96e4-191056644c07',
-      'dc27ba72-bd5a-4c6a-a845-ac00e6fcbac3'
+      '935805bc-ae90-4787-a1c0-1418981b8fa1'
     ];
     const groupId = '731d446c-7719-4ac6-a665-659a1de089aa';
 
