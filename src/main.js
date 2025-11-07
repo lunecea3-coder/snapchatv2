@@ -59,11 +59,11 @@ function showError(message) {
     const lenses = [
       {
         id: '41e6b7e5-07d6-4884-a2dc-918125900634',
-        thumbnail: 'picture/cute.png' // Replace with your image path
+        thumbnail: '/picture/cute.png' // Replace with your image path
       },
       {
         id: 'ec0e0545-4e45-401a-9428-16c702186bff',
-        thumbnail: 'picture/halfcute.png'
+        thumbnail: '/picture/halfcute.png'
       },
       {
         id: 'd5b91469-fc3d-461e-a881-bcb4239ce82a',
@@ -71,11 +71,11 @@ function showError(message) {
       },
       {
         id: '398b9c9e-9deb-4816-b1c5-73ca12110137',
-        thumbnail: 'picture/blue.png'
+        thumbnail: '/picture/blue.png'
       },
       {
         id: '67eb92ed-7ea6-4404-9917-c5456dfefe21',
-        thumbnail: 'picture/blue with hat.png'
+        thumbnail: '/picture/blue with hat.png'
       },
     ];
     const groupId = '731d446c-7719-4ac6-a665-659a1de089aa';
